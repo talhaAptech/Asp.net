@@ -1,0 +1,12 @@
+c:\users\talha\documents\visual studio 2013\Projects\image_gallery\image_gallery\bin\image_gallery.dll.config
+c:\users\talha\documents\visual studio 2013\Projects\image_gallery\image_gallery\bin\image_gallery.dll
+c:\users\talha\documents\visual studio 2013\Projects\image_gallery\image_gallery\bin\image_gallery.pdb
+c:\users\talha\documents\visual studio 2013\Projects\image_gallery\image_gallery\obj\Debug\image_gallery.csprojResolveAssemblyReference.cache
+c:\users\talha\documents\visual studio 2013\Projects\image_gallery\image_gallery\obj\Debug\image_gallery.dll
+c:\users\talha\documents\visual studio 2013\Projects\image_gallery\image_gallery\obj\Debug\image_gallery.pdb
+Z:\ASP.NET\image_gallery\image_gallery\bin\image_gallery.dll.config
+Z:\ASP.NET\image_gallery\image_gallery\bin\image_gallery.dll
+Z:\ASP.NET\image_gallery\image_gallery\bin\image_gallery.pdb
+Z:\ASP.NET\image_gallery\image_gallery\obj\Debug\image_gallery.csprojResolveAssemblyReference.cache
+Z:\ASP.NET\image_gallery\image_gallery\obj\Debug\image_gallery.dll
+Z:\ASP.NET\image_gallery\image_gallery\obj\Debug\image_gallery.pdb

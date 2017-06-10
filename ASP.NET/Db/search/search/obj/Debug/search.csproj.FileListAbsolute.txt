@@ -1,0 +1,12 @@
+c:\users\talha\documents\visual studio 2013\Projects\search\search\bin\search.dll.config
+c:\users\talha\documents\visual studio 2013\Projects\search\search\bin\search.dll
+c:\users\talha\documents\visual studio 2013\Projects\search\search\bin\search.pdb
+c:\users\talha\documents\visual studio 2013\Projects\search\search\obj\Debug\search.csprojResolveAssemblyReference.cache
+c:\users\talha\documents\visual studio 2013\Projects\search\search\obj\Debug\search.dll
+c:\users\talha\documents\visual studio 2013\Projects\search\search\obj\Debug\search.pdb
+Z:\ASP.NET\Db\search\search\bin\search.dll.config
+Z:\ASP.NET\Db\search\search\bin\search.dll
+Z:\ASP.NET\Db\search\search\bin\search.pdb
+Z:\ASP.NET\Db\search\search\obj\Debug\search.csprojResolveAssemblyReference.cache
+Z:\ASP.NET\Db\search\search\obj\Debug\search.dll
+Z:\ASP.NET\Db\search\search\obj\Debug\search.pdb

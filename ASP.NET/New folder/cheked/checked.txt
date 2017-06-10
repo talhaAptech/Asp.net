@@ -1,0 +1,43 @@
+<html xmlns="http://www.w3.org/1999/xhtml">  
+<head runat="server">  
+    <title>Selected Row Cell value Gridview</title>  
+</head>  
+<body>  
+    <form id="form1" runat="server">  
+        <div>  
+            <asp:GridView ID="gvEmp" AutoGenerateColumns="false" CellPadding="5" runat="server">  
+                <Columns>  
+                    <asp:TemplateField>  
+                        <HeaderTemplate>   
+                            <asp:CheckBox ID="chkAllSelect" runat="server" onclick="CheckAll(this);" />  
+                        </HeaderTemplate>  
+                        <ItemTemplate>  
+                            <asp:CheckBox ID="chkSelect" runat="server" />  
+                        </ItemTemplate>  
+                    </asp:TemplateField>  
+                    <asp:BoundField HeaderText="EmpId" DataField="EmpId" />  
+                    <asp:BoundField HeaderText="EmpName" DataField="EmpName" />  
+                    <asp:BoundField HeaderText="Company" DataField="Company" />  
+                    <asp:BoundField HeaderText="Address" DataField="Address" />  
+                </Columns>  
+                <HeaderStyle BackColor="#5d5d5d" Font-Bold="true" ForeColor="White" />  
+            </asp:GridView>  
+            <asp:Button ID="btnGetRecord" Text="Get Selected Records" runat="server"  
+                Font-Bold="true" OnClick="btnGetRecord_Click" /><br /><br />  
+  
+              
+            <asp:Label ID="lblRecord" runat="server" />              
+        </div>  
+    </form>  
+  
+  
+    <script type="text/javascript">  
+// for check all checkbox  
+        function CheckAll(Checkbox) {  
+            var GridVwHeaderCheckbox = document.getElementById("<%=gvEmp.ClientID %>");  
+            for (i = 1; i < GridVwHeaderCheckbox.rows.length; i++) {  
+                GridVwHeaderCheckbox.rows[i].cells[0].getElementsByTagName("INPUT")[0].checked = Checkbox.checked;  
+            }  
+        }  
+    </script>  
+</body>  

@@ -1,0 +1,38 @@
+<add name="Test" connectionString="Data Source=.;Initial Catalog=demo;Persist Security Info=True;User ID=sa;Password=aptech" providerName="System.Data.SqlClient"/>
+
+
+private string connstring = ConfigurationManager.ConnectionStrings["Test"].ConnectionString;
+
+
+ public void insert_record()
+        {
+            SqlConnection conn = new SqlConnection(connstring);
+            try
+            {
+                SqlCommand cmd = new SqlCommand("spinsertdata", conn);
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.Add("@id", SqlDbType.Int).Value = TextBox1.Text;
+                cmd.Parameters.Add("@name", SqlDbType.NVarChar, 20).Value = TextBox2.Text;
+                cmd.Parameters.Add("@class", SqlDbType.Int).Value = TextBox3.Text;
+
+
+                conn.Open();
+                cmd.ExecuteNonQuery();
+
+
+                Response.Write("DATA record has been inserted successfully.....");
+
+            }
+            catch (Exception)
+            {
+                Response.Write("data is not inserted !!!");
+
+            }
+
+            finally
+            {
+                conn.Close();
+            }
+
+
+        } //method end...........

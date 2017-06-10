@@ -1,0 +1,11 @@
+c:\users\talha\documents\visual studio 2013\Projects\Insert_Data\Insert_Data\bin\Insert_Data.dll.config
+c:\users\talha\documents\visual studio 2013\Projects\Insert_Data\Insert_Data\bin\Insert_Data.dll
+c:\users\talha\documents\visual studio 2013\Projects\Insert_Data\Insert_Data\bin\Insert_Data.pdb
+c:\users\talha\documents\visual studio 2013\Projects\Insert_Data\Insert_Data\obj\Debug\Insert_Data.dll
+c:\users\talha\documents\visual studio 2013\Projects\Insert_Data\Insert_Data\obj\Debug\Insert_Data.pdb
+Z:\ASP.NET\Db\Insert_Data\Insert_Data\bin\Insert_Data.dll.config
+Z:\ASP.NET\Db\Insert_Data\Insert_Data\bin\Insert_Data.dll
+Z:\ASP.NET\Db\Insert_Data\Insert_Data\bin\Insert_Data.pdb
+Z:\ASP.NET\Db\Insert_Data\Insert_Data\obj\Debug\Insert_Data.dll
+Z:\ASP.NET\Db\Insert_Data\Insert_Data\obj\Debug\Insert_Data.pdb
+Z:\ASP.NET\Db\Insert_Data\Insert_Data\obj\Debug\Insert_Data.csprojResolveAssemblyReference.cache

@@ -1,0 +1,19 @@
+ string value = "value";//everytime i take different vales
+
+        ArrayList cartList = (ArrayList)Session["ShoppingCart"];
+
+        if (cartList == null)
+        {
+
+            cartList = new ArrayList();
+
+        }
+
+        cartList.Add("25");
+        Session["ShoppingCart"] = cartList;
+
+
+        foreach (var item in cartList)
+        {
+            Response.Write(item);
+        }

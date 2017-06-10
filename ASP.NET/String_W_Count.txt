@@ -1,0 +1,17 @@
+            string str = TextBox1.Text;
+            string result = string.Empty;
+            
+            while (str.Length > 0)
+            {
+                int count = 0;
+                for (int j = 0; j < str.Length; j++)
+                {
+                    if (str[0] == str[j])
+                    {
+                        count++;
+                    }
+                }
+                result += str[0] + " : " + count + "<br>";
+                str = str.Replace(str[0].ToString(), string.Empty);
+            }
+            Response.Write(result);

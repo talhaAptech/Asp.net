@@ -1,0 +1,68 @@
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\WebApplication6.dll.config
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\WebApplication6.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\WebApplication6.pdb
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\Antlr3.Runtime.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\DotNetOpenAuth.AspNet.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\DotNetOpenAuth.Core.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OAuth.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OpenId.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\EntityFramework.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\Microsoft.Web.Infrastructure.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\System.Web.Optimization.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\System.Web.Providers.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\WebGrease.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\EntityFramework.xml
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\DotNetOpenAuth.Core.xml
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OAuth.xml
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OpenId.xml
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\DotNetOpenAuth.AspNet.xml
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\WebApplication6.dll.config
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\WebApplication6.dll
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\WebApplication6.pdb
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\Antlr3.Runtime.dll
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\AspNet.ScriptManager.jQuery.dll
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\DotNetOpenAuth.AspNet.dll
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\DotNetOpenAuth.Core.dll
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OAuth.Consumer.dll
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OAuth.dll
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OpenId.dll
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\EntityFramework.dll
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\Microsoft.AspNet.FriendlyUrls.dll
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\Microsoft.ScriptManager.MSAjax.dll
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\Microsoft.ScriptManager.WebForms.dll
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\Microsoft.Web.Infrastructure.dll
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\System.Web.Optimization.dll
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\System.Web.Providers.dll
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\WebGrease.dll
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\EntityFramework.xml
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\DotNetOpenAuth.Core.xml
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OAuth.xml
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OAuth.Consumer.xml
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OpenId.xml
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\DotNetOpenAuth.AspNet.xml
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+Z:\ASP.NET\WebApplication6\WebApplication6\bin\Microsoft.AspNet.FriendlyUrls.xml
+Z:\ASP.NET\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+Z:\ASP.NET\WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+Z:\ASP.NET\WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb

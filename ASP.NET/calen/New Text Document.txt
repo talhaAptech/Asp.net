@@ -1,0 +1,10 @@
+Caption - This is a string read/write property. 
+CaptionAlign - Used to align the caption.
+DayHeaderStyle - Style properties that can be used to customize the look and feel of the day header in the calendar
+DayNameFormat - Can be Full, Short, FirstLetter, FirstTwoLetters, Shortest
+DayStyle - Style properties that can be used to customize the look and feel of the day in the calendar
+FirstDayOfWeek - Which day of the week is displayed first
+NextPrevFormat - Can be ShortMonth, FullMonth, CustomText
+NextMonthText - The text to use for the next month button. 
+PrevMonthText - The text to use for the previous month button. 
+SelectionMode - Can be Day, DayWeek, DayWeekMonth. Determines if Days, Weeks and Months are selectable. 

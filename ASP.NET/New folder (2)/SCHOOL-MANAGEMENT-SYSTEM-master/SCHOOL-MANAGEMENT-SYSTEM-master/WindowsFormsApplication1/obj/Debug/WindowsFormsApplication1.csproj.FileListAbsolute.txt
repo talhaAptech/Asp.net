@@ -1,0 +1,33 @@
+c:\users\hp-\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\hp-\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\hp-\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\hp-\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\hp-\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\hp-\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\hp-\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\hp-\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\hp-\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\GIT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\GIT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\GIT\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\GIT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\GIT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.fees_sub_form.resources
+E:\GIT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\GIT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\GIT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view_form.resources
+E:\GIT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\GIT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\GIT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\GIT\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.experiment.resources
+Z:\ASP.NET\New folder (2)\SCHOOL-MANAGEMENT-SYSTEM-master\SCHOOL-MANAGEMENT-SYSTEM-master\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+Z:\ASP.NET\New folder (2)\SCHOOL-MANAGEMENT-SYSTEM-master\SCHOOL-MANAGEMENT-SYSTEM-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+Z:\ASP.NET\New folder (2)\SCHOOL-MANAGEMENT-SYSTEM-master\SCHOOL-MANAGEMENT-SYSTEM-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+Z:\ASP.NET\New folder (2)\SCHOOL-MANAGEMENT-SYSTEM-master\SCHOOL-MANAGEMENT-SYSTEM-master\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+Z:\ASP.NET\New folder (2)\SCHOOL-MANAGEMENT-SYSTEM-master\SCHOOL-MANAGEMENT-SYSTEM-master\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+Z:\ASP.NET\New folder (2)\SCHOOL-MANAGEMENT-SYSTEM-master\SCHOOL-MANAGEMENT-SYSTEM-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+Z:\ASP.NET\New folder (2)\SCHOOL-MANAGEMENT-SYSTEM-master\SCHOOL-MANAGEMENT-SYSTEM-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.experiment.resources
+Z:\ASP.NET\New folder (2)\SCHOOL-MANAGEMENT-SYSTEM-master\SCHOOL-MANAGEMENT-SYSTEM-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.fees_sub_form.resources
+Z:\ASP.NET\New folder (2)\SCHOOL-MANAGEMENT-SYSTEM-master\SCHOOL-MANAGEMENT-SYSTEM-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+Z:\ASP.NET\New folder (2)\SCHOOL-MANAGEMENT-SYSTEM-master\SCHOOL-MANAGEMENT-SYSTEM-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+Z:\ASP.NET\New folder (2)\SCHOOL-MANAGEMENT-SYSTEM-master\SCHOOL-MANAGEMENT-SYSTEM-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view_form.resources
+Z:\ASP.NET\New folder (2)\SCHOOL-MANAGEMENT-SYSTEM-master\SCHOOL-MANAGEMENT-SYSTEM-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

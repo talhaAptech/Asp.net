@@ -1,0 +1,12 @@
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication14\WebApplication14\bin\WebApplication14.dll.config
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication14\WebApplication14\bin\WebApplication14.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication14\WebApplication14\bin\WebApplication14.pdb
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication14\WebApplication14\obj\Debug\WebApplication14.csprojResolveAssemblyReference.cache
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication14\WebApplication14\obj\Debug\WebApplication14.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication14\WebApplication14\obj\Debug\WebApplication14.pdb
+Z:\ASP.NET\Fileupload\WebApplication14\WebApplication14\bin\WebApplication14.dll.config
+Z:\ASP.NET\Fileupload\WebApplication14\WebApplication14\bin\WebApplication14.dll
+Z:\ASP.NET\Fileupload\WebApplication14\WebApplication14\bin\WebApplication14.pdb
+Z:\ASP.NET\Fileupload\WebApplication14\WebApplication14\obj\Debug\WebApplication14.csprojResolveAssemblyReference.cache
+Z:\ASP.NET\Fileupload\WebApplication14\WebApplication14\obj\Debug\WebApplication14.dll
+Z:\ASP.NET\Fileupload\WebApplication14\WebApplication14\obj\Debug\WebApplication14.pdb

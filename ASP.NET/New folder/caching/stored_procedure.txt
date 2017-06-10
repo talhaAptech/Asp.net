@@ -1,0 +1,7 @@
+alter procedure data
+as
+begin
+waitfor delay '00:00:05'
+	select * from info
+end
+

@@ -1,0 +1,18 @@
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication20\WebApplication20\bin\WebApplication20.dll.config
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication20\WebApplication20\bin\WebApplication20.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication20\WebApplication20\bin\WebApplication20.pdb
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication20\WebApplication20\obj\Debug\WebApplication20.csprojResolveAssemblyReference.cache
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication20\WebApplication20\obj\Debug\WebApplication20.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication20\WebApplication20\obj\Debug\WebApplication20.pdb
+Z:\ASP.NET\Db\Image_upload_DB\WebApplication20\WebApplication20\obj\Debug\WebApplication20.csprojResolveAssemblyReference.cache
+Z:\ASP.NET\Db\Image_upload_DB\WebApplication20\WebApplication20\obj\Debug\WebApplication20.dll
+Z:\ASP.NET\Db\Image_upload_DB\WebApplication20\WebApplication20\obj\Debug\WebApplication20.pdb
+Z:\ASP.NET\Db\Image_upload_DB\WebApplication20\WebApplication20\bin\WebApplication20.dll.config
+Z:\ASP.NET\Db\Image_upload_DB\WebApplication20\WebApplication20\bin\WebApplication20.dll
+Z:\ASP.NET\Db\Image_upload_DB\WebApplication20\WebApplication20\bin\WebApplication20.pdb
+Z:\ASP.NET\Image_upload_DB\WebApplication20\WebApplication20\bin\WebApplication20.dll.config
+Z:\ASP.NET\Image_upload_DB\WebApplication20\WebApplication20\bin\WebApplication20.dll
+Z:\ASP.NET\Image_upload_DB\WebApplication20\WebApplication20\bin\WebApplication20.pdb
+Z:\ASP.NET\Image_upload_DB\WebApplication20\WebApplication20\obj\Debug\WebApplication20.csprojResolveAssemblyReference.cache
+Z:\ASP.NET\Image_upload_DB\WebApplication20\WebApplication20\obj\Debug\WebApplication20.dll
+Z:\ASP.NET\Image_upload_DB\WebApplication20\WebApplication20\obj\Debug\WebApplication20.pdb

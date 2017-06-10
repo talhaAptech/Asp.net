@@ -1,0 +1,8 @@
+https://msdn.microsoft.com/en-us/library/ms972961.aspx
+
+http://www.tutorialspoint.com/asp.net/asp.net_validators.htm
+
+
+https://msdn.microsoft.com/en-us/library/aa479013.aspx
+
+http://codemyne.net/articles/Validations-Controls-in-AspdotNet-webpage.aspx?visitid=170&type=2

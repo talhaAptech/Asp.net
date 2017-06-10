@@ -1,0 +1,6 @@
+c:\users\talha\documents\visual studio 2013\Projects\Email_asp\Email_asp\bin\Email_asp.dll.config
+c:\users\talha\documents\visual studio 2013\Projects\Email_asp\Email_asp\bin\Email_asp.dll
+c:\users\talha\documents\visual studio 2013\Projects\Email_asp\Email_asp\bin\Email_asp.pdb
+c:\users\talha\documents\visual studio 2013\Projects\Email_asp\Email_asp\obj\Debug\Email_asp.csprojResolveAssemblyReference.cache
+c:\users\talha\documents\visual studio 2013\Projects\Email_asp\Email_asp\obj\Debug\Email_asp.dll
+c:\users\talha\documents\visual studio 2013\Projects\Email_asp\Email_asp\obj\Debug\Email_asp.pdb

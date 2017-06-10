@@ -1,0 +1,11 @@
+<asp:DataList ID="DataList1" runat="server" RepeatColumns="3" RepeatDirection="Horizontal"
+   Width="100%" BorderColor="Blue" BorderStyle="Solid" BorderWidth="3px">
+    
+   <ItemTemplate>
+      <asp:Label ID="Label1" runat="server" Text='<%# Eval("ProductName") %>' Font-Bold="True" Font-Size="1.2em" ForeColor="Navy"/><br />
+      <asp:Label ID="Label2" runat="server" Text='<%# Eval("ProductDescription") %>' Font-Italic="true"/><br /> 
+      <asp:Label ID="Label3" runat="server" Text='<%# "Price: US$"+System.Convert.ToString(Eval("ProductPrice")) %>' Font-Bold="True" Font-Size="1.2em" ForeColor="Navy"/><br />
+      <asp:Image ID="Image1" runat="server" ImageUrl='<%# "GetImageDatafromDB.aspx?id=" + System.Convert.ToString(Eval("ProductID")) %>'/>
+   </ItemTemplate>
+   <ItemStyle HorizontalAlign="Center" VerticalAlign="Top"  />
+</asp:DataList>

@@ -1,0 +1,6 @@
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication12\WebApplication12\obj\Debug\WebApplication12.csprojResolveAssemblyReference.cache
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication12\WebApplication12\bin\WebApplication12.dll.config
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication12\WebApplication12\bin\WebApplication12.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication12\WebApplication12\bin\WebApplication12.pdb
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication12\WebApplication12\obj\Debug\WebApplication12.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication12\WebApplication12\obj\Debug\WebApplication12.pdb

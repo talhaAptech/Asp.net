@@ -1,0 +1,22 @@
+C:\Users\azeem\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\azeem\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\azeem\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\azeem\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+Z:\ASP.NET\imageupload_filehandling\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+Z:\ASP.NET\imageupload_filehandling\WebApplication1\WebApplication1\bin\WebApplication1.dll
+Z:\ASP.NET\imageupload_filehandling\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+Z:\ASP.NET\imageupload_filehandling\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+Z:\ASP.NET\imageupload_filehandling\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+Z:\ASP.NET\imageupload_filehandling\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+Z:\ASP.NET\imageupload_filehandling\ASPAZM\WebApplication1\WebApplication1\bin\WebApplication1.dll
+Z:\ASP.NET\imageupload_filehandling\ASPAZM\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+Z:\ASP.NET\imageupload_filehandling\ASPAZM\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+Z:\ASP.NET\imageupload_filehandling\ASPAZM\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+Z:\ASP.NET\imageupload_filehandling\ASPAZM\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+Z:\ASP.NET\imageupload_filehandling\ASPAZM\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+\\server1\Faculty\Talha Hassan\ASP.NET\imageupload_filehandling\ASPAZM\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+\\server1\Faculty\Talha Hassan\ASP.NET\imageupload_filehandling\ASPAZM\WebApplication1\WebApplication1\bin\WebApplication1.dll
+\\server1\Faculty\Talha Hassan\ASP.NET\imageupload_filehandling\ASPAZM\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+\\server1\Faculty\Talha Hassan\ASP.NET\imageupload_filehandling\ASPAZM\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+\\server1\Faculty\Talha Hassan\ASP.NET\imageupload_filehandling\ASPAZM\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+\\server1\Faculty\Talha Hassan\ASP.NET\imageupload_filehandling\ASPAZM\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

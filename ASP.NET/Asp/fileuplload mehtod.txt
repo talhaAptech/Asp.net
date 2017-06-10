@@ -1,0 +1,41 @@
+
+        //method of file uploading.................................................................................................
+        public string fileuploadmethod(FileUpload fileupload1, string id)
+        {
+            string s = "";
+            // If the user has selected a file
+            if (FileUpload1.HasFile)
+            {
+                // Get the file extension
+                string fileExtension = System.IO.Path.GetExtension(FileUpload1.FileName);
+
+                if (fileExtension.ToLower() != ".doc" && fileExtension.ToLower() != ".docx" && fileExtension.ToLower() != ".rtf")
+                {
+                    //  lblMessage.ForeColor = System.Drawing.Color.Red;
+                    s = "Only files with .doc and .docx extension are allowed";
+                }
+                else
+                {
+                    // Get the file size
+                    int fileSize = FileUpload1.PostedFile.ContentLength;
+                    // If file size is greater than 2 MB
+                    if (fileSize > 2097152)
+                    {
+                     s = "File size cannot be greater than 2 MB";
+                    }
+                    else
+                    {
+                        // Upload the file
+                        FileUpload1.SaveAs(Server.MapPath("~/Uploads/" + id + FileUpload1.FileName));
+                        s = "File uploaded successfully";
+                    }
+                }
+            }
+            else
+            {
+               
+                s = "Please select a file";
+            }
+
+            return s;
+        } //method end.///////

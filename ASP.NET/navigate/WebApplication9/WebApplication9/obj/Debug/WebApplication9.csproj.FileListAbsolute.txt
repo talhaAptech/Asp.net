@@ -1,0 +1,22 @@
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication9\WebApplication9\bin\WebApplication9.dll.config
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication9\WebApplication9\bin\WebApplication9.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication9\WebApplication9\bin\WebApplication9.pdb
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication9\WebApplication9\obj\Debug\WebApplication9.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication9\WebApplication9\obj\Debug\WebApplication9.pdb
+C:\Users\talha\Desktop\WebApplication9\WebApplication9\bin\WebApplication9.dll.config
+C:\Users\talha\Desktop\WebApplication9\WebApplication9\bin\WebApplication9.dll
+C:\Users\talha\Desktop\WebApplication9\WebApplication9\bin\WebApplication9.pdb
+C:\Users\talha\Desktop\WebApplication9\WebApplication9\obj\Debug\WebApplication9.csprojResolveAssemblyReference.cache
+C:\Users\talha\Desktop\WebApplication9\WebApplication9\obj\Debug\WebApplication9.dll
+C:\Users\talha\Desktop\WebApplication9\WebApplication9\obj\Debug\WebApplication9.pdb
+Z:\ASP.NET\navigate\WebApplication9\WebApplication9\bin\WebApplication9.dll.config
+Z:\ASP.NET\navigate\WebApplication9\WebApplication9\bin\WebApplication9.dll
+Z:\ASP.NET\navigate\WebApplication9\WebApplication9\bin\WebApplication9.pdb
+Z:\ASP.NET\navigate\WebApplication9\WebApplication9\obj\Debug\WebApplication9.csprojResolveAssemblyReference.cache
+Z:\ASP.NET\navigate\WebApplication9\WebApplication9\obj\Debug\WebApplication9.dll
+Z:\ASP.NET\navigate\WebApplication9\WebApplication9\obj\Debug\WebApplication9.pdb
+\\SERVER1\Faculty\Talha Hassan\ASP.NET\navigate\WebApplication9\WebApplication9\bin\WebApplication9.dll
+\\SERVER1\Faculty\Talha Hassan\ASP.NET\navigate\WebApplication9\WebApplication9\bin\WebApplication9.pdb
+\\SERVER1\Faculty\Talha Hassan\ASP.NET\navigate\WebApplication9\WebApplication9\obj\Debug\WebApplication9.csprojResolveAssemblyReference.cache
+\\SERVER1\Faculty\Talha Hassan\ASP.NET\navigate\WebApplication9\WebApplication9\obj\Debug\WebApplication9.dll
+\\SERVER1\Faculty\Talha Hassan\ASP.NET\navigate\WebApplication9\WebApplication9\obj\Debug\WebApplication9.pdb

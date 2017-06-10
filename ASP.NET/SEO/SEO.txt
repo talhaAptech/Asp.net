@@ -1,0 +1,76 @@
+ON page optimization (developer and desinger works)
+---------------------
+
+xenu software for checking broken link and useless link
+
+apply height width by use of CSS
+
+heading must be in between 45 character
+
+meta tag character must be in between 50 150
+
+h1 to h4
+
+
+
+canonicalization
+<link rel="canonical" href="http://example.com"/>
+
+by the help of above link we cant ref
+
+
+we can disallow the folder by using a file named robot.txt paste in public.html
+user-agent: *
+Disallow: /my-account
+Disallow:/page/4?add_to=317
+
+
+
+seositecheckup.com is used to website audit
+
+
+************************************************
+
+speed optimization
+developers.google.com/speed/pagespeed
+this link check your websites then
+
+
+google webmaster tools
+fetch site then he tell me who use your website how many error in your site
+
+
+google analytic he will provide you a code then paste given code in footer
+you can target your audience by using this google analytic 
+
+----------------------------------------------------------------------
+
+
+off page sEO ()
+--------------
+when i search my website by using keyword like 'sport' you dont have any output so first make a profile 
+check why this site in top in google
+
+www.seoprofiler.com
+
+then link profile/backlinks 
+
+comment in this way <a href='www.aptech.com'>Sports</a>
+
+
+check
+cache:www.aptech.com
+
+
+submit url to google
+
+
+
+============================================================
+plagiarism
+
+smallseotools websites check the content it is copy or not
+
+**********************************************
+
+articlerewriter is a website where i can get content

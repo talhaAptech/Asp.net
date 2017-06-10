@@ -1,0 +1,5 @@
+c:\users\azeem\documents\visual studio 2012\Projects\ajaxx\ajaxx\bin\ajaxx.dll
+c:\users\azeem\documents\visual studio 2012\Projects\ajaxx\ajaxx\bin\ajaxx.pdb
+c:\users\azeem\documents\visual studio 2012\Projects\ajaxx\ajaxx\obj\Debug\ajaxx.csprojResolveAssemblyReference.cache
+c:\users\azeem\documents\visual studio 2012\Projects\ajaxx\ajaxx\obj\Debug\ajaxx.dll
+c:\users\azeem\documents\visual studio 2012\Projects\ajaxx\ajaxx\obj\Debug\ajaxx.pdb

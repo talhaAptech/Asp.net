@@ -1,0 +1,12 @@
+c:\users\talha\documents\visual studio 2013\Projects\C_control\C_control\bin\C_control.dll.config
+c:\users\talha\documents\visual studio 2013\Projects\C_control\C_control\bin\C_control.dll
+c:\users\talha\documents\visual studio 2013\Projects\C_control\C_control\bin\C_control.pdb
+c:\users\talha\documents\visual studio 2013\Projects\C_control\C_control\obj\Debug\C_control.csprojResolveAssemblyReference.cache
+c:\users\talha\documents\visual studio 2013\Projects\C_control\C_control\obj\Debug\C_control.dll
+c:\users\talha\documents\visual studio 2013\Projects\C_control\C_control\obj\Debug\C_control.pdb
+Z:\ASP.NET\C_control\C_control\bin\C_control.dll.config
+Z:\ASP.NET\C_control\C_control\bin\C_control.dll
+Z:\ASP.NET\C_control\C_control\bin\C_control.pdb
+Z:\ASP.NET\C_control\C_control\obj\Debug\C_control.csprojResolveAssemblyReference.cache
+Z:\ASP.NET\C_control\C_control\obj\Debug\C_control.dll
+Z:\ASP.NET\C_control\C_control\obj\Debug\C_control.pdb

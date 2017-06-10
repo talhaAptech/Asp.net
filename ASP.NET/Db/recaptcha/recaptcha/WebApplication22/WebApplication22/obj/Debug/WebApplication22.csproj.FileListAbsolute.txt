@@ -1,0 +1,13 @@
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication22\WebApplication22\bin\WebApplication22.dll.config
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication22\WebApplication22\bin\WebApplication22.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication22\WebApplication22\bin\WebApplication22.pdb
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication22\WebApplication22\bin\GoogleReCaptcha.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication22\WebApplication22\obj\Debug\WebApplication22.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication22\WebApplication22\obj\Debug\WebApplication22.pdb
+Z:\ASP.NET\Db\recaptcha\recaptcha\WebApplication22\WebApplication22\bin\WebApplication22.dll.config
+Z:\ASP.NET\Db\recaptcha\recaptcha\WebApplication22\WebApplication22\bin\WebApplication22.dll
+Z:\ASP.NET\Db\recaptcha\recaptcha\WebApplication22\WebApplication22\bin\WebApplication22.pdb
+Z:\ASP.NET\Db\recaptcha\recaptcha\WebApplication22\WebApplication22\bin\GoogleReCaptcha.dll
+Z:\ASP.NET\Db\recaptcha\recaptcha\WebApplication22\WebApplication22\obj\Debug\WebApplication22.csprojResolveAssemblyReference.cache
+Z:\ASP.NET\Db\recaptcha\recaptcha\WebApplication22\WebApplication22\obj\Debug\WebApplication22.dll
+Z:\ASP.NET\Db\recaptcha\recaptcha\WebApplication22\WebApplication22\obj\Debug\WebApplication22.pdb

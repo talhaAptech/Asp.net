@@ -1,0 +1,87 @@
+<%@ Page Language="vb" %>
+<script runat=server>
+
+public sub CheckID(source as Object, args as ServerValidateEventArgs)
+    args.IsValid = args.Value.substring(0, 1).tolower() <> "a"
+end sub 
+
+public sub OnSubmit(source as Object, e as EventArgs)
+    if Page.IsValid then
+        ' Now we can perform our transaction.
+    end if
+end sub
+
+</script>
+<html>
+<head>
+<title>Validation Sample</title>
+</head>
+<body>
+
+<form runat=server>
+<asp:ValidationSummary runat=server headertext="There were errors on the page:" />
+
+<p>Please enter a User ID and Password:</p>
+<table>
+  <tr>
+    <td>
+        <asp:RequiredFieldValidator runat=server 
+            controltovalidate=txtName
+            errormessage="User ID is required.">*
+        </asp:RequiredFieldValidator>
+    </td>
+    <td>User ID:</td>
+    <td>
+      <input type=text runat=server id=txtName>
+      <asp:RegularExpressionValidator runat=server display=dynamic
+            controltovalidate="txtName" 
+            errormessage="ID must be 6-10 letters." 
+            validationexpression="[a-zA-Z]{6,10}" />
+      <asp:CustomValidator runat=server
+            controltovalidate="txtName" 
+            errormessage="ID is already in use." 
+            OnServerValidate="CheckID" />
+
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <asp:RequiredFieldValidator runat=server 
+            controltovalidate=txtPWord
+            errormessage="Password is required.">*
+        </asp:RequiredFieldValidator>
+    </td>
+    <td>Password:</td>
+    <td>
+      <input type=password runat=server id=txtPWord>
+      <asp:RegularExpressionValidator runat=server display=dynamic
+            controltovalidate="txtPWord" 
+            errormessage="Password must contain one of @#$%^&*/."
+            validationexpression=".*[@#$%^&*/].*" />
+      <asp:RegularExpressionValidator runat=server display=dynamic
+            controltovalidate="txtPWord" 
+            errormessage="Password must be 4-12 nonblank characters." 
+            validationexpression="[^\s]{4,12}" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <asp:RequiredFieldValidator runat=server 
+            controltovalidate=txtRePWord
+            errormessage="Re-enter password is required.">*
+        </asp:RequiredFieldValidator>
+    </td>
+    <td>Re-enter Password:</td>
+    <td>
+      <input type=password runat=server id=txtRePWord>
+      <asp:CompareValidator runat=server
+            controltovalidate=txtRePWord
+            controltocompare=txtPWord 
+            errormessage="Passwords do not match." />
+    </td>
+  </tr>
+</table><br>
+<input type=submit runat=server id=cmdSubmit value=Submit onserverclick=OnSubmit>
+</form>
+</body>
+</html>

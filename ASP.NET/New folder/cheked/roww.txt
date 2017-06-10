@@ -1,0 +1,61 @@
+ protected void Page_Load(object sender, EventArgs e)  
+     {  
+        if (!IsPostBack)  
+        {  
+            Bindgv();  
+        }  
+    }  
+// For bind Gridview  
+    protected void Bindgv()  
+    {  
+        SqlConnection con = new SqlConnection("data source=LENOVO;initial catalog=test;UID=sa;PWD=connect;");  
+  
+        con.Open();  
+        SqlCommand cmd = new SqlCommand("Select EmpId, EmpName, Company, Address from tbl_Emp", con);  
+        SqlDataAdapter da = new SqlDataAdapter(cmd);  
+        DataSet ds = new DataSet();  
+        da.Fill(ds);  
+        con.Close();  
+        gvEmp.DataSource = ds;  
+        gvEmp.DataBind();  
+  
+    }  
+//for get record  
+    protected void btnGetRecord_Click(object sender, EventArgs e)  
+    {  
+        string str = string.Empty;  
+        string strname = string.Empty;  
+        foreach (GridViewRow gvrow in gvEmp.Rows)  
+        {  
+            CheckBox chk = (CheckBox)gvrow.FindControl("chkSelect");  
+            if (chk != null & chk.Checked)  
+            {  
+                str += "<b>EmpId :- </b>" + gvrow.Cells[1].Text + ", ";  
+                str += "<b>EmpName :- </b>" + gvrow.Cells[2].Text + ", ";  
+                str += "<b>Company :- </b>" + gvrow.Cells[3].Text + ", ";  
+                str += "<b>Addess :- </b>" + gvrow.Cells[4].Text;  
+                str += "<br />";  
+            }  
+        }         
+        lblRecord.Text = "<b>Selected EmpDetails: </b>" + str ;  
+    }  
+
+
+
+ DataTable dt = new DataTable();
+    dt.Columns.AddRange(new DataColumn[2] { new DataColumn("Name"), new DataColumn("Country") });
+    foreach (GridViewRow row in GridView1.Rows)
+    {
+        if (row.RowType == DataControlRowType.DataRow)
+        {
+            CheckBox chkRow = (row.Cells[0].FindControl("chkRow") as CheckBox);
+            if (chkRow.Checked)
+            {
+                string name = row.Cells[1].Text;
+                string country = (row.Cells[2].FindControl("lblCountry") as Label).Text;
+                dt.Rows.Add(name, country);
+            }
+        }
+    }
+    gvSelected.DataSource = dt;
+    gvSelected.DataBind();

@@ -1,0 +1,75 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .menu
+        {
+            background-color: #000000;
+        }
+        .style1
+        {
+            font-size: large;
+            color: red;
+            background-color: #000000;
+            text-align: center;
+            height: 14px;
+        }
+    </style>
+</head>
+<body>
+    <form runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="loginDisplay">
+               
+                <p class="style1">
+                    WE HAVE THE BEST CARS AT LOWEST RATES ..........!</p>
+                <asp:Image ID="Image1" runat="server" Height="43px" ImageAlign="Left" 
+                    ImageUrl="~/image/logo.png" Width="269px" />
+                <br />
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" 
+                    EnableViewState="False" IncludeStyleBlock="false" Orientation="Horizontal" 
+                    BorderStyle="Solid">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Home"/>
+                        <asp:MenuItem NavigateUrl="~/About.aspx" Text="About"/>
+                        <asp:MenuItem NavigateUrl="~/purchase.aspx" Text="PURCHASE" Value="PURCHASE">
+                        </asp:MenuItem>
+                        <asp:MenuItem Text="ADMIN" 
+                            Value="ADMIN">
+                            <asp:MenuItem NavigateUrl="~/CAR(VEHICLE).aspx" Text="CAR(VEHICLE)" 
+                                Value="CAR(VEHICLE)"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/VEHICLE_TYPE_ID.aspx" Text="VEHICLE_TYPE_ID" 
+                                Value="VEHICLE_TYPE_ID"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/ORDER_LINE.aspx" Text="ORDER_LINE" 
+                                Value="ORDER_LINE"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/ORDER_HEADER.aspx" Text="ORDER_HEADER" 
+                                Value="ORDER_HEADER"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/customer.aspx" Text="CUSTOMER" Value="New Item">
+                            </asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/CITY.aspx" Text="CITY" Value="CITY"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/STATE.aspx" Text="STATE" Value="STATE">
+                            </asp:MenuItem>
+                        </asp:MenuItem>
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>

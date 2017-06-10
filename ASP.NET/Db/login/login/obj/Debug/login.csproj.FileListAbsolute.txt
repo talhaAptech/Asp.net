@@ -1,0 +1,11 @@
+c:\users\talha\documents\visual studio 2013\Projects\login\login\bin\login.dll.config
+c:\users\talha\documents\visual studio 2013\Projects\login\login\bin\login.dll
+c:\users\talha\documents\visual studio 2013\Projects\login\login\bin\login.pdb
+c:\users\talha\documents\visual studio 2013\Projects\login\login\obj\Debug\login.dll
+c:\users\talha\documents\visual studio 2013\Projects\login\login\obj\Debug\login.pdb
+Z:\ASP.NET\Db\login\login\bin\login.dll.config
+Z:\ASP.NET\Db\login\login\bin\login.dll
+Z:\ASP.NET\Db\login\login\bin\login.pdb
+Z:\ASP.NET\Db\login\login\obj\Debug\login.csprojResolveAssemblyReference.cache
+Z:\ASP.NET\Db\login\login\obj\Debug\login.dll
+Z:\ASP.NET\Db\login\login\obj\Debug\login.pdb

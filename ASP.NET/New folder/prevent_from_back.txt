@@ -1,0 +1,3 @@
+ Response.Cache.SetCacheability(HttpCacheability.NoCache);
+        Response.Cache.SetAllowResponseInBrowserHistory(false);
+        Response.Cache.SetNoStore();

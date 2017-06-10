@@ -1,0 +1,24 @@
+C:\Users\talha\documents\visual studio 2013\Projects\gridviewcrudoperations\gridviewcrudoperations\bin\gridviewcrudoperations.dll.config
+C:\Users\talha\documents\visual studio 2013\Projects\gridviewcrudoperations\gridviewcrudoperations\bin\gridviewcrudoperations.dll
+C:\Users\talha\documents\visual studio 2013\Projects\gridviewcrudoperations\gridviewcrudoperations\bin\gridviewcrudoperations.pdb
+C:\Users\talha\documents\visual studio 2013\Projects\gridviewcrudoperations\gridviewcrudoperations\obj\Debug\gridviewcrudoperations.csprojResolveAssemblyReference.cache
+C:\Users\talha\documents\visual studio 2013\Projects\gridviewcrudoperations\gridviewcrudoperations\obj\Debug\gridviewcrudoperations.dll
+C:\Users\talha\documents\visual studio 2013\Projects\gridviewcrudoperations\gridviewcrudoperations\obj\Debug\gridviewcrudoperations.pdb
+Z:\ASP.NET\Db\gridviewcrudoperations\gridviewcrudoperations\bin\gridviewcrudoperations.dll.config
+Z:\ASP.NET\Db\gridviewcrudoperations\gridviewcrudoperations\bin\gridviewcrudoperations.dll
+Z:\ASP.NET\Db\gridviewcrudoperations\gridviewcrudoperations\bin\gridviewcrudoperations.pdb
+Z:\ASP.NET\Db\gridviewcrudoperations\gridviewcrudoperations\obj\Debug\gridviewcrudoperations.csprojResolveAssemblyReference.cache
+Z:\ASP.NET\Db\gridviewcrudoperations\gridviewcrudoperations\obj\Debug\gridviewcrudoperations.dll
+Z:\ASP.NET\Db\gridviewcrudoperations\gridviewcrudoperations\obj\Debug\gridviewcrudoperations.pdb
+\\10.0.1.1\Faculty\Talha Hassan\ASP.NET\Db\gridviewcrudoperations\gridviewcrudoperations\bin\gridviewcrudoperations.dll.config
+\\10.0.1.1\Faculty\Talha Hassan\ASP.NET\Db\gridviewcrudoperations\gridviewcrudoperations\bin\gridviewcrudoperations.dll
+\\10.0.1.1\Faculty\Talha Hassan\ASP.NET\Db\gridviewcrudoperations\gridviewcrudoperations\bin\gridviewcrudoperations.pdb
+\\10.0.1.1\Faculty\Talha Hassan\ASP.NET\Db\gridviewcrudoperations\gridviewcrudoperations\obj\Debug\gridviewcrudoperations.csprojResolveAssemblyReference.cache
+\\10.0.1.1\Faculty\Talha Hassan\ASP.NET\Db\gridviewcrudoperations\gridviewcrudoperations\obj\Debug\gridviewcrudoperations.dll
+\\10.0.1.1\Faculty\Talha Hassan\ASP.NET\Db\gridviewcrudoperations\gridviewcrudoperations\obj\Debug\gridviewcrudoperations.pdb
+\\server1\Faculty\Talha Hassan\ASP.NET\Db\gridviewcrudoperations\gridviewcrudoperations\bin\gridviewcrudoperations.dll.config
+\\server1\Faculty\Talha Hassan\ASP.NET\Db\gridviewcrudoperations\gridviewcrudoperations\bin\gridviewcrudoperations.dll
+\\server1\Faculty\Talha Hassan\ASP.NET\Db\gridviewcrudoperations\gridviewcrudoperations\bin\gridviewcrudoperations.pdb
+\\server1\Faculty\Talha Hassan\ASP.NET\Db\gridviewcrudoperations\gridviewcrudoperations\obj\Debug\gridviewcrudoperations.csprojResolveAssemblyReference.cache
+\\server1\Faculty\Talha Hassan\ASP.NET\Db\gridviewcrudoperations\gridviewcrudoperations\obj\Debug\gridviewcrudoperations.dll
+\\server1\Faculty\Talha Hassan\ASP.NET\Db\gridviewcrudoperations\gridviewcrudoperations\obj\Debug\gridviewcrudoperations.pdb

@@ -1,0 +1,19 @@
+ <form id="form1" runat="server">
+    <div>
+
+        <asp:RadioButtonList ID="ColorRadioButtonList" runat="server" 
+    RepeatDirection="Horizontal">
+    <asp:ListItem Text="Red" Value="1"></asp:ListItem>
+    <asp:ListItem Text="Green" Value="2"></asp:ListItem>
+    <asp:ListItem Text="Blue" Value="3"></asp:ListItem>
+    <asp:ListItem Text="Orange" Value="4"></asp:ListItem>
+</asp:RadioButtonList>
+<br />
+<asp:Button ID="btnSubmit" runat="server" Text="Submit" 
+    onclick="btnSubmit_Click"/>&nbsp;
+<asp:Button ID="btnClearSelection" runat="server" Text="Clear Selection" 
+    onclick="btnClearSelection_Click"/> 
+
+    
+    </div>
+    </form>

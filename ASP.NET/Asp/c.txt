@@ -1,0 +1,19 @@
+ protected void btnSubmit_Click(object sender, EventArgs e)
+        {
+            if (ColorRadioButtonList.SelectedIndex != -1)
+            {
+                Response.Write("Text = " + ColorRadioButtonList.SelectedItem.Text + "<br/>");
+                Response.Write("Value = " + ColorRadioButtonList.SelectedItem.Value + "<br/>");
+                Response.Write("Index = " + ColorRadioButtonList.SelectedIndex.ToString());
+            }
+            // If the user has not selected anything
+            else
+            {
+                Response.Write("Please select your favourite color");
+            }
+        }
+
+        protected void btnClearSelection_Click(object sender, EventArgs e)
+        {
+            ColorRadioButtonList.SelectedIndex = -1;
+        }

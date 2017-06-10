@@ -1,0 +1,12 @@
+c:\users\talha\documents\visual studio 2013\Projects\R_E_F\R_E_F\bin\R_E_F.dll.config
+c:\users\talha\documents\visual studio 2013\Projects\R_E_F\R_E_F\bin\R_E_F.dll
+c:\users\talha\documents\visual studio 2013\Projects\R_E_F\R_E_F\bin\R_E_F.pdb
+c:\users\talha\documents\visual studio 2013\Projects\R_E_F\R_E_F\obj\Debug\R_E_F.csprojResolveAssemblyReference.cache
+c:\users\talha\documents\visual studio 2013\Projects\R_E_F\R_E_F\obj\Debug\R_E_F.dll
+c:\users\talha\documents\visual studio 2013\Projects\R_E_F\R_E_F\obj\Debug\R_E_F.pdb
+Z:\ASP.NET\Db\R_E_F\R_E_F\bin\R_E_F.dll.config
+Z:\ASP.NET\Db\R_E_F\R_E_F\bin\R_E_F.dll
+Z:\ASP.NET\Db\R_E_F\R_E_F\bin\R_E_F.pdb
+Z:\ASP.NET\Db\R_E_F\R_E_F\obj\Debug\R_E_F.csprojResolveAssemblyReference.cache
+Z:\ASP.NET\Db\R_E_F\R_E_F\obj\Debug\R_E_F.dll
+Z:\ASP.NET\Db\R_E_F\R_E_F\obj\Debug\R_E_F.pdb

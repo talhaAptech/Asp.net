@@ -1,0 +1,18 @@
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication15\WebApplication15\bin\WebApplication15.dll.config
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication15\WebApplication15\bin\WebApplication15.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication15\WebApplication15\bin\WebApplication15.pdb
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication15\WebApplication15\obj\Debug\WebApplication15.csprojResolveAssemblyReference.cache
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication15\WebApplication15\obj\Debug\WebApplication15.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication15\WebApplication15\obj\Debug\WebApplication15.pdb
+Z:\ASP.NET\Db\Update-del\WebApplication15\WebApplication15\bin\WebApplication15.dll.config
+Z:\ASP.NET\Db\Update-del\WebApplication15\WebApplication15\bin\WebApplication15.dll
+Z:\ASP.NET\Db\Update-del\WebApplication15\WebApplication15\bin\WebApplication15.pdb
+Z:\ASP.NET\Db\Update-del\WebApplication15\WebApplication15\obj\Debug\WebApplication15.csprojResolveAssemblyReference.cache
+Z:\ASP.NET\Db\Update-del\WebApplication15\WebApplication15\obj\Debug\WebApplication15.dll
+Z:\ASP.NET\Db\Update-del\WebApplication15\WebApplication15\obj\Debug\WebApplication15.pdb
+\\10.0.1.1\Faculty\Talha Hassan\ASP.NET\Db\Update-del\WebApplication15\WebApplication15\bin\WebApplication15.dll.config
+\\10.0.1.1\Faculty\Talha Hassan\ASP.NET\Db\Update-del\WebApplication15\WebApplication15\bin\WebApplication15.dll
+\\10.0.1.1\Faculty\Talha Hassan\ASP.NET\Db\Update-del\WebApplication15\WebApplication15\bin\WebApplication15.pdb
+\\10.0.1.1\Faculty\Talha Hassan\ASP.NET\Db\Update-del\WebApplication15\WebApplication15\obj\Debug\WebApplication15.csprojResolveAssemblyReference.cache
+\\10.0.1.1\Faculty\Talha Hassan\ASP.NET\Db\Update-del\WebApplication15\WebApplication15\obj\Debug\WebApplication15.dll
+\\10.0.1.1\Faculty\Talha Hassan\ASP.NET\Db\Update-del\WebApplication15\WebApplication15\obj\Debug\WebApplication15.pdb

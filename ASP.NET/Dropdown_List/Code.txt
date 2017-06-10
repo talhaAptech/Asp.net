@@ -1,0 +1,8 @@
+if (!IsPostBack)
+            {
+                ListItem maleListItem = new ListItem("Male", "1");
+                ListItem femaleListItem = new ListItem("Female", "2");
+
+                DropDownList3.Items.Add(maleListItem);
+                DropDownList3.Items.Add(femaleListItem);
+            }

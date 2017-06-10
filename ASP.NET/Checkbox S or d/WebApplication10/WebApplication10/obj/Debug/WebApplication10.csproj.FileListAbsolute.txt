@@ -1,0 +1,17 @@
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication10\WebApplication10\bin\WebApplication10.dll.config
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication10\WebApplication10\bin\WebApplication10.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication10\WebApplication10\bin\WebApplication10.pdb
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication10\WebApplication10\obj\Debug\WebApplication10.csprojResolveAssemblyReference.cache
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication10\WebApplication10\obj\Debug\WebApplication10.dll
+c:\users\talha\documents\visual studio 2013\Projects\WebApplication10\WebApplication10\obj\Debug\WebApplication10.pdb
+Z:\ASP.NET\Checkbox S or d\WebApplication10\WebApplication10\bin\WebApplication10.dll.config
+Z:\ASP.NET\Checkbox S or d\WebApplication10\WebApplication10\bin\WebApplication10.dll
+Z:\ASP.NET\Checkbox S or d\WebApplication10\WebApplication10\bin\WebApplication10.pdb
+Z:\ASP.NET\Checkbox S or d\WebApplication10\WebApplication10\obj\Debug\WebApplication10.csprojResolveAssemblyReference.cache
+Z:\ASP.NET\Checkbox S or d\WebApplication10\WebApplication10\obj\Debug\WebApplication10.dll
+Z:\ASP.NET\Checkbox S or d\WebApplication10\WebApplication10\obj\Debug\WebApplication10.pdb
+\\SERVER1\Faculty\Talha Hassan\ASP.NET\Checkbox S or d\WebApplication10\WebApplication10\bin\WebApplication10.dll
+\\SERVER1\Faculty\Talha Hassan\ASP.NET\Checkbox S or d\WebApplication10\WebApplication10\bin\WebApplication10.pdb
+\\SERVER1\Faculty\Talha Hassan\ASP.NET\Checkbox S or d\WebApplication10\WebApplication10\obj\Debug\WebApplication10.csprojResolveAssemblyReference.cache
+\\SERVER1\Faculty\Talha Hassan\ASP.NET\Checkbox S or d\WebApplication10\WebApplication10\obj\Debug\WebApplication10.dll
+\\SERVER1\Faculty\Talha Hassan\ASP.NET\Checkbox S or d\WebApplication10\WebApplication10\obj\Debug\WebApplication10.pdb
